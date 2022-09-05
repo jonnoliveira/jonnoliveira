@@ -1,7 +1,6 @@
 
 
-## Meu nome é Jonathas Assis de Oliveira,
-mas todos me conhecem mais como Bojo. Esteja à vontade!
+## Ei, eu sou Jonathas!
 
 <div align="center">
   <a href="https://github.com/jonnoliveira">

@@ -14,7 +14,6 @@
   <img align="center" alt="jonn-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="jonn-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="jonn-REACT" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="jonn-RTL" height="50" width="40" src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js">  
   </div>
   
 ##

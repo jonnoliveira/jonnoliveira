@@ -1,6 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=A90A19&center=true&width=441&height=75&lines=Seja+bem-vindo(a)!+)](https://git.io/typing-svg)
 
+## Hi! I'm Jonathas Assis de Oliveira!
+### Full Stack Web Development Student
+
 ##
 
 <div align="center">

@@ -5,14 +5,12 @@
 ### Full Stack Web Development Student
 
 ##
-<div align="center"> 
-  <a href="https://github.com/jonnoliveira">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jonnoliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnoliveira&layout=compact&langs_count=7&theme=highcontrast"/>
-  </a>
-</div>
 
-<div><br>
+[![Jonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnoliveira&count_private=true&show_icons=true&theme=transparent)](https://github.com/jonnoliveira/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnoliveira&layout=compact&theme=transparent)](https://github.com/jonnoliveira/github-readme-stats)
+
+<div>
   <img alt="jonn-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="jonn-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img alt="jonn-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">

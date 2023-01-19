@@ -4,7 +4,7 @@
 ## Hi! I'm Jonathas Assis de Oliveira! :computer:
 ### Full Stack Web Development Student :green_heart:
 
-#### Confira meu [Portfólio](https://jonnoliveira.github.io/) :flight_departure:
+#### See my [portfolio](https://jonnoliveira.github.io/) :flight_departure:
 
 ##
 

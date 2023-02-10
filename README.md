@@ -22,7 +22,7 @@
   <img alt="jonn-JEST" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img alt="jonn-RTL" height="50" width="40" src="https://testing-library.com/img/logo-large.png" alt="rtl icon">
   <img alt="jonn-REDUX" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img alt="jonn-DOCKER" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="jonn-DOCKER" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </div>
   
 ##

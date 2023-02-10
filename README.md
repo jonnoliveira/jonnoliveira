@@ -16,7 +16,7 @@
 
 <div>
   <img alt="jonn-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  </br>
+  
   <img alt="jonn-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img alt="jonn-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="jonn-REACT" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">

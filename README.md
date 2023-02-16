@@ -1,5 +1,5 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=A90A19&center=true&width=441&height=75&lines=Seja+bem-vindo(a)!+)](https://git.io/typing-svg)
+
 
 ## Hi! I'm Jonathas Assis de Oliveira! :computer:
 ### Front-End web Developer :green_heart:
@@ -8,7 +8,7 @@
 
 ##
 
-<div>
+<div align="center">
 <a href="https://github.com/jonnoliveira">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jonnoliveira&count_private=true&show_icons=true&theme=transparent"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnoliveira&layout=compact&theme=transparent"/>

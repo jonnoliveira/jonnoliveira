@@ -5,10 +5,10 @@
 ### Front-End web Developer :green_heart:
 
 <div id="Contact">
-<a href="https://jonnoliveira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E6E6E6?style=for-the-badge" /></a><br />
+<a href="https://jonnoliveira.github.io/"> <img src="https://img.shields.io/badge/Portfolio-E6E6E6?style=for-the-badge" /></a><br />
 <img src="https://img.shields.io/badge/Contact:-E6E6E6?style=for-the-badge" alt="Contact" />
-<a href="https://www.linkedin.com/in/jonn-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:dev.jonnoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jonn-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href = "mailto:dev.jonnoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>  
 
 ##

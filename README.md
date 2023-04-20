@@ -37,6 +37,7 @@
 <span>
   <img src="https://img.shields.io/badge/Databases:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Databases" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Shield" />
+  <img src="https://img.shields.io/badge/Sequelize-6888A1?style=for-the-badge&logo=sequelize&logoColor=blue" alt="Sequelize Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/Styling:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Styling" />

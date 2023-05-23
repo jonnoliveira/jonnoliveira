@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha Shield" />
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai Shield" />
   <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white" alt="Testing_Library Shield" />
+    <img src="https://img.shields.io/badge/Sinon-2EE5E0?style=for-the-badge&logo=Sinon" alt="Sinon Shield" />
  </span><br />
 <span>
   <img src="https://img.shields.io/badge/Other:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Other" />

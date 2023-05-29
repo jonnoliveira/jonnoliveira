@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=A90A19&center=true&width=441&height=75&lines=Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=A90A19&center=false&width=441&height=75&lines=Welcome!)](https://git.io/typing-svg)
 
 
 ### ABOUT ME: :computer:

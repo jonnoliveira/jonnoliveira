@@ -25,17 +25,17 @@
 
 <span>
   <img src="https://img.shields.io/badge/Base:-E6E6E6?style=for-the-badge" alt="Base" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Shield" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Shield" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Shield" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Shield" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Shield" />
+  <img src="https://img.shields.io/badge/Typescript-2CA5E0?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/BackEnd:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="BackEnd" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS Shield" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS Shield" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT Shield" />
-  <img src="https://img.shields.io/badge/Typescript-2CA5E0?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/FrontEnd:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="FrontEnd" />

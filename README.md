@@ -1,17 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&duration=3000&pause=1000&color=A90A19&center=true&width=441&height=75&lines=Seja+bem-vindo(a)!+)](https://git.io/typing-svg)
 
 
-## Hi! I'm Jonathas Assis de Oliveira! :computer:
-### Front-End web Developer :green_heart:
+### ABOUT ME: :computer:
+<div>
+  
+* _Front-End Developer, passionate about technology and creative creation. Currently a Full Stack Development student at Trybe. I believe in the capacity that technology has to include and bring people together, solving the simplest to the most complex problems of our daily lives_
+  
+* _Main skills: self-education, communication, sense of urgency, outgoing, leadership._
+
+* _Purpose: To inspire and be inspired. Create new solutions and/or improve existing tools for recurring problems in our daily lives._
+
+* _In my free time I like to play video games, photograph nature, go hiking, visit waterfalls, try and cook new dishes and spend quality time with my friends and family._
+</div>
 
 <div id="Contact">
-<a href="https://jonnoliveira.github.io/"> <img src="https://img.shields.io/badge/Portfolio-E6E6E6?style=for-the-badge" /></a><br />
-<img src="https://img.shields.io/badge/Contact:-E6E6E6?style=for-the-badge" alt="Contact" />
+<a href="https://jonnoliveira.github.io/"> <img src="https://img.shields.io/badge/Portfolio-E6E6E6?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/jonn-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 <a href = "mailto:dev.jonnoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>  
+</div>
 
-##
+#
 
 <h3>  Tech and tools that I know: 🔧<h3> 
 

@@ -4,7 +4,7 @@
 ### ABOUT ME: :computer:
 <div>
   
-* _Front-End Developer, passionate about technology and creative creation. Currently a Full Stack Development student at Trybe. I believe in the capacity that technology has to include and bring people together, solving the simplest to the most complex problems of our daily lives_
+* _Full Stack Web Developer, passionate about technology and creative creation. Currently a Full Stack Development student at Trybe. I believe in the capacity that technology has to include and bring people together, solving the simplest to the most complex problems of our daily lives_
   
 * _Main skills: self-education, communication, sense of urgency, outgoing, leadership._
 

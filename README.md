@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Shield" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Shield" />
   <img src="https://img.shields.io/badge/Typescript-2CA5E0?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript Shield" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/BackEnd:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="BackEnd" />
@@ -50,7 +51,7 @@
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/Styling:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Styling" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Shield" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Bootstrap Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/Testing:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Testing" />

@@ -51,7 +51,7 @@
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/Styling:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Styling" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Bootstrap Shield" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/Testing:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Testing" />
